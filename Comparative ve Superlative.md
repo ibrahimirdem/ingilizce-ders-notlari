@@ -1,3 +1,29 @@
+# İNGİLİZCE DERS NOTLARI
+
+## İçindekiler
+
+1. [Relative Clause (Who, Which, That)](#Relative Clause (Who, Which, That)) (19.08.2020)
+2. [Comparative ve Superlative](#comparative-ve-superlative) (20.08.2020)
+   * [Comparative](#Comparative)
+   * [Superlative](#Superlative)
+   * [Notlar](#Notlar)
+
+---
+
+
+
+## Relative Clause (Who, Which, That)
+
+| RELATIVE PRONOUN | KULLANIM ALANI                                 |
+| ---------------- | ---------------------------------------------- |
+| **Who**          | Kişiler için kullanılır                        |
+| **Which**        | Nesneler ve hayvanlar için kullanılır.         |
+| **That**         | Kişiler, nesneler ve hayvanlar için kullanılır |
+
+---
+
+
+
 ## Comparative ve Superlative 
 
 ### Comparative
@@ -80,5 +106,5 @@
 | Little        | Less             | The least              |
 | Far           | Farther/ Further | The farthest/ furthest |
 
-
+---
 
