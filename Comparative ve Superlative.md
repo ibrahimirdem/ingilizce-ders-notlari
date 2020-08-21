@@ -1,18 +1,11 @@
-# İNGİLİZCE DERS NOTLARI
+# İÇİNDEKİLER
 
-## İçindekiler
-
-1. [Relative Clause (Who, Which, That)](#Relative Clause (Who, Which, That)) (19.08.2020)
-2. [Comparative ve Superlative](#comparative-ve-superlative) (20.08.2020)
-   * [Comparative](#Comparative)
-   * [Superlative](#Superlative)
-   * [Notlar](#Notlar)
-
+[TOC]
 ---
 
-
-
 ## Relative Clause (Who, Which, That)
+
+> 19.08.2020
 
 | RELATIVE PRONOUN | KULLANIM ALANI                                 |
 | ---------------- | ---------------------------------------------- |
@@ -22,9 +15,9 @@
 
 ---
 
-
-
 ## Comparative ve Superlative 
+
+> 20.08.2020
 
 ### Comparative
 
@@ -108,3 +101,24 @@
 
 ---
 
+## Have got / Has got
+
+> 21.08.2020
+
+* **Have got** ve **has got** ingilizcede sahip olduğumuz şeyleri anlatmak/nelere sahip olduğumuz söylemek için kullandığımız kalıplardır. Bu kalıpların Türkçe karşılığı genel olarak …var anlamına gelir.
+
+* Örneğin:
+  * I have got a cat -- *Benim bir kedim var.*
+  * My father has got a Jaguar -- *Babamın bir Jaguar'ı var.*
+  * We have got a big house -- *Bizim büyük bir evimiz var.*
+* **I**, **we**, **you**, **they** ve Children-Çocuklar,Students-Öğrenciler gibi çoğul şahıslarla have got formu kullanırız. 
+* **He**, **she**, **it** ve Murat, My father-babam, My sister-Kız kardeşim gibi tekil şahıslarla has got formunu kullanırız.
+
+### Örnek Cümleler
+
+* Olumlu Cümleler:
+  * I **have got** a brother and two sisters -- *Bir erkek iki kız kardeşim var.*
+* Olumsuz Cümleler:
+  * I **have** not **got** a brother -- *Benim erkek kardeşim yok.*
+* Soru Cümleleri:
+  * **Have** you **got** a lot of toys? -- *Çok oyuncağın var mı?*
